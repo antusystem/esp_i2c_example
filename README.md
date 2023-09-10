@@ -2,11 +2,6 @@
 
 This examples shows how to use 2 ESP32 to work as master-slave. The master send 1 to the slave, then, it increase the number that arrives and put it in its buffer. Afterwards, the master read the slave buffer and sends that value.
 
-
-## How to use example
-We encourage the users to use the example as a template for the new projects.
-A recommended way is to follow the instructions on a [docs page](https://docs.espressif.com/projects/esp-idf/en/latest/api-guides/build-system.html#start-a-new-project).
-
 ## Hardware Required
 
 You need 2 ESP32 basic Devboard, this was tested in 2 NodeMCU.
