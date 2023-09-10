@@ -4,7 +4,7 @@ This examples shows how to use 2 ESP32 to work as master-slave. The master send 
 
 ## Hardware Required
 
-You need 2 ESP32 basic Devboard, this was tested in 2 NodeMCU.
+You need 2 ESP32 basic Devboard, this was tested with 2 NodeMCU.
 
 ### Pin Assignment:
 
