@@ -1,6 +1,6 @@
 # I2C Basic Example
 
-This examples shows how to use 2 ESP32 to work as master-slave. The master send 1 to the slave, then, it increse the number that arrives and put it in is buffer. Afterwards, the master read the slave buffer and sends that value.
+This examples shows how to use 2 ESP32 to work as master-slave. The master send 1 to the slave, then, it increase the number that arrives and put it in its buffer. Afterwards, the master read the slave buffer and sends that value.
 
 
 ## How to use example
